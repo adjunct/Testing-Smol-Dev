@@ -1,0 +1,23 @@
+.todo-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.todo-item .checkbox {
+    margin-right: 10px;
+}
+
+.todo-item .todo-text {
+    flex-grow: 1;
+}
+
+.todo-item .todo-text.done {
+    text-decoration: line-through;
+}
+
+.todo-item .three-dot-menu {
+    cursor: pointer;
+}
