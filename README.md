@@ -1,6 +1,7 @@
 # Starter React App
 
 This is a starter React application built with the latest standards and TypeScript. It's a simple Todo application, which is a single page web application.
+This is a todo application - a user should be able to manage his task list in this applcation. 
 
 ## Features
 
